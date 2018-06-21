@@ -1,5 +1,5 @@
 # RoboticsStudyGroup
-Robotics Study Group
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/ELSPL-Robotics/StudyGroup)
 
 ## About
 
