@@ -10,3 +10,4 @@
 
 ## Tools
 * [Add ZSH as default shell](https://dwijaybane.wordpress.com/2017/12/04/oh-my-zsh-and-powerline-fonts-setup-for-awesome-terminal-in-ubuntu-16-04/)
+
