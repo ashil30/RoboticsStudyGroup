@@ -6,3 +6,4 @@
 ## Helpful Resources
 * [Markdown Document Guidelines](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Git and Gitflow Cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
+* [Visual Git workflow](https://learngitbranching.js.org/)
