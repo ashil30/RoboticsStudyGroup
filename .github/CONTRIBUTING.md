@@ -101,6 +101,44 @@ First of all, thanks for your interest in contributing!
     ```
   7. [Open a pull request](https://help.github.com/articles/creating-a-pull-request/) to the ELSPL/RoboticsStudyGroup
 
+### Coding Style, Standards and Convention
+#### C++ coding style
+
+Changes to C++ code should conform to
+[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html).
+
+Use `clang-tidy` to check your C/C++ changes. To install `clang-tidy` on ubuntu:16.04, do:
+
+```bash
+apt-get install -y clang-tidy
+```
+
+You can check a C/C++ file by doing:
+
+```bash
+clang-format <my_cc_file> --style=google > /tmp/my_cc_file.cc
+diff <my_cc_file> /tmp/my_cc_file.cc
+```
+
+#### Python coding style
+
+Changes to Python code should conform to
+[Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+
+Use `pylint` to check your Python changes. To install `pylint` and
+retrieve our custom style definition:
+
+```bash
+pip install pylint
+
+```
+<!--- wget -O /tmp/pylintrc https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/tools/ci_build/pylintrc -->
+
+To check a file with `pylint`:
+
+```bash
+pylint --rcfile=/tmp/pylintrc myfile.py
+```
 
 ### Merging
 Once we're all happy with the pull request, it's time for it to get merged in. Only the
