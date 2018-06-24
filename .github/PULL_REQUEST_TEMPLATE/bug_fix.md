@@ -1,3 +1,9 @@
+---
+name: Bug Fix
+about: Possible Bug Fix implementation
+
+---
+
 <!--- Provide a general summary of your changes in the Title above -->
 
 ## Description
