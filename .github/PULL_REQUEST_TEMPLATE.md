@@ -1,9 +1,3 @@
----
-name: Pull Request
-about: New Feature, Bug-fixes or Doc upgrade
-
----
-
 ## Types of changes
 <!--- Put an `x` in all the boxes that apply: -->
 - [ ] Bug fix (non-breaking change which fixes an issue)
