@@ -64,6 +64,8 @@ For more information, please read the see the [contributing guide](https://githu
   * [Markdown Document Guidelines](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   * [Git and Gitflow Cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
   * [Learning Git : A playful approach](https://learngitbranching.js.org/?demo)
+  * [PDFs and E-books for Git](https://drive.google.com/drive/folders/18AAhmvueQb7mDBQHgoP9-US3Pkr-uIo3?usp=sharing)
+  * [Learning path - On Demand Training by Git](https://services.github.com/on-demand/resources/learning-path/)
 
 * **Linux**
   * **How to install Ubuntu**
@@ -77,3 +79,4 @@ For more information, please read the see the [contributing guide](https://githu
 * [Add ZSH as default shell](https://dwijaybane.wordpress.com/2017/12/04/oh-my-zsh-and-powerline-fonts-setup-for-awesome-terminal-in-ubuntu-16-04/)
 
 [Back To The Top](#robotics-study-group)
+
