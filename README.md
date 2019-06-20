@@ -14,7 +14,7 @@
 <!--- 6. No opinions, editorials -->
 
 # Robotics Study Group
-[![Join the chat at https://gitter.im/RoboticsStudyGroup/Lobby](https://badges.gitter.im/RoboticsStudyGroup/Lobby.svg)](https://gitter.im/RoboticsStudyGroup/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 ### Table of Contents
 - [Description](#description)
@@ -42,7 +42,7 @@ Need help? Found an issue? Have a feature request? Checkout our [support page](h
 - Lab related material: https://github.com/ELSPL/RoboticsStudyGroup/tree/master/Docs
 - Wiki: https://github.com/ELSPL/RoboticsStudyGroup/wiki
 - Issue tracker: https://github.com/ELSPL/RoboticsStudyGroup/issues
-- Gitter chat room: https://gitter.im/RoboticsStudyGroup/Lobby
+- Slack chat room: 
 
 ## Code of Conduct
 We want everyone to feel welcome to contribute to our study group and participate in discussions. In that
@@ -63,20 +63,7 @@ For more information, please read the see the [contributing guide](https://githu
 * **Git**
   * [Markdown Document Guidelines](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   * [Git and Gitflow Cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
-  * [Learning Git : A playful approach](https://learngitbranching.js.org/?demo)
-  * [PDFs and E-books for Git](https://drive.google.com/drive/folders/18AAhmvueQb7mDBQHgoP9-US3Pkr-uIo3?usp=sharing)
-  * [Learning path - On Demand Training by Git](https://services.github.com/on-demand/resources/learning-path/)
 
-* **Linux**
-  * **How to install Ubuntu**
-  * [only ubuntu as main OS](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop)
-  * [dual boot with windows](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/) 
-  * **Getting started with linux**
-  * [Youtube channel thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCkg2uj3PxUWhMDuTw3VKjM)
-  * [Shell Scripting](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
   
-## Technical Tools
-* [Add ZSH as default shell](https://dwijaybane.wordpress.com/2017/12/04/oh-my-zsh-and-powerline-fonts-setup-for-awesome-terminal-in-ubuntu-16-04/)
-
 [Back To The Top](#robotics-study-group)
 
