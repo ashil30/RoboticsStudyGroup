@@ -25,11 +25,13 @@ Files
 
 - Labs
     - Ashil
+        - scratch
         - catkin_ws
         - Projects
             - Proj1
                 - Gazebo
                 - ROS
+        - launch_docker.bash
 
     - Harshang
         - catkin_ws
