@@ -31,7 +31,7 @@ Inspired by the collaborative culture of research, we hold regular, enhanced stu
 Over the course of our sessions, we follow three parallel paths:
 
 1. **Theory**: We study academic textbooks, exercises, and coursework so that we command strong theoretical foundations for mathematical modelling and reinforcement learning. Broadly, we cover calculus, algebra, probability, computer science, with a focus on their intersection at machine learning and deep reinforcement learning. 
-2. **Application**: We practice exercises in the real world. We typically commence by collectively following tutorials then we move on to solving novel and illustrative data problems involving a broad range of techniques. In addition to incorporating deep learning into our respective academic and commercial applications, we commit code to the present, public repository where possible. 
+2. **Application**: We practice exercises in the real world. We typically commence by collectively following tutorials then we move on to solving novel and illustrative data problems involving a broad range of techniques.
 3. **Presentations**: Study group members regularly share their progress on projects and their area of expertise. This elicits novel discourse outside of the relatively formal paths **1** and **2**, playfully encouraging along serendipity. 
 
 ## Need Help?
