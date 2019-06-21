@@ -3,17 +3,14 @@
 Wiki should contain all sorts of documentation
 Pages
 -----
-Home
-
-Software
+- Home
+- Software
     - Host
     - Device
         - Nano
         - TX2
-
-Getting-Started
-
-Projects
+- Getting-Started
+- Projects
     - Proj1
     - Proj2
     - DuckieTown
@@ -22,19 +19,19 @@ Projects
 
 Files
 -----
-Docs
-    Slides
-    Resources
+- Docs
+    - Slides
+    - Resources
 
-Labs
-    Ashil
+- Labs
+    - Ashil
         - catkin_ws
         - Projects
             - Proj1
                 - Gazebo
                 - ROS
 
-    Harshang
+    - Harshang
         - catkin_ws
         - Projects
             - Proj1
