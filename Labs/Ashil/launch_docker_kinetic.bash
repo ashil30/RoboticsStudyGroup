@@ -21,7 +21,7 @@
 # fi
 
 # Image Name From Dockerhub Preferably 
-IMAGE=${1:-streaminterrupt/ros-lab:v6}
+IMAGE=${1:-streaminterrupt/ros-lab:kinetic-v1}
 
 #custom port
 # PORT=4545
