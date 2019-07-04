@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 150
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_52e85148872d__44591: 'http://52e85148872d:44591/'}
+rosversion: '1.14.3
+
+  '
+run_id: 41230da8-9be6-11e9-85e3-0242ac110002
