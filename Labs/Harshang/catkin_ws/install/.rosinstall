@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /notebooks/catkin_ws/install/setup.sh
